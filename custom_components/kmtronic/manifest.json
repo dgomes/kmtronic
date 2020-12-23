@@ -3,6 +3,7 @@
     "name": "kmtronic",
     "config_flow": true,
     "documentation": "https://www.home-assistant.io/integrations/kmtronic",
+    "issue_tracker": "https://github.com/dgomes/kmtronic/issues",
     "requirements": ["pykmtronic==0.0.3"],
     "ssdp": [],
     "zeroconf": [],
