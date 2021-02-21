@@ -1,14 +1,10 @@
 {
-    "version": "0.0.1",
+    "version": "0.0.2",
     "domain": "kmtronic",
-    "name": "kmtronic",
+    "name": "KMtronic",
     "config_flow": true,
     "documentation": "https://www.home-assistant.io/integrations/kmtronic",
     "issue_tracker": "https://github.com/dgomes/kmtronic/issues",
     "requirements": ["pykmtronic==0.0.3"],
-    "ssdp": [],
-    "zeroconf": [],
-    "homekit": {},
-    "dependencies": [],
     "codeowners": ["@dgomes"]
 }
